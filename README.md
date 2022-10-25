@@ -16,5 +16,5 @@
 * Capítulo 13 - Quando as coisas vão mal, as vezes é um ótimo sinal.
 * Capítulo 14 - Projetando plataformas orientadas às dimensões do negócio.
 * Capítulo 15 - Situações aberrantes, a exceção não é tão exceção assim.
-* Apêndice A - Modelo matematico base para orientação a dimensões.
+* Apêndice - Modelo matematico base para orientação a dimensões.
 * Bibliografia
